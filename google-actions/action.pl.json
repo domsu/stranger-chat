@@ -1,0 +1,21 @@
+{
+  "actions": [
+    {
+      "description": "Powitalny intent rozpoczynajacy czat",
+      "name": "MAIN",
+      "fulfillment": {
+        "conversationName": "chat"
+      },
+      "intent": {
+        "name": "actions.intent.MAIN"
+      }
+    }
+  ],
+  "conversations": {
+    "chat": {
+      "name": "chat",
+      "url": "https://strangerchat.suszczewicz.net/"
+    }
+  },
+  "locale": "pl"
+}
