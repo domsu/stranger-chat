@@ -2,8 +2,6 @@
 
 This repository is a simple example of how to use Golang, Docker, Terraform and actions on google.
 
-The app is deployed to Google Assistant and you can try it here: [stranger chat](https://assistant.google.com/services/a/uid/000000ee76914812?hl=en)
-
 ![Stranger chat](https://i.imgur.com/zkdo7jn.png)
 
 # Prerequisites
